@@ -7,3 +7,4 @@ public class WrapperDemo1 {
         i=Integer.valueOf(a);
     }
 }
+//object in to primitive & primitive in to object
