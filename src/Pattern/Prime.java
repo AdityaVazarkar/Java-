@@ -8,7 +8,7 @@ public class Prime {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the number");
         int no= scanner.nextInt();
-        for(int i=2;i<no;i++) {
+        for(int i=2;i<no/2;i++) {
 
             if (no % i == 0) {
                  count++;
